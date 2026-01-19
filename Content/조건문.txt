@@ -1,0 +1,11 @@
+
+bool NewHidden = false;
+if(NewHidden == false)
+{
+	NewHidden = true;
+}
+
+else if(NewHidden == true)
+{
+	NewHidden = false;
+}
