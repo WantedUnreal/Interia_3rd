@@ -1,4 +1,4 @@
-
+깃허브 너무 힘드네요
 bool NewHidden = false;
 if(NewHidden == false)
 {
